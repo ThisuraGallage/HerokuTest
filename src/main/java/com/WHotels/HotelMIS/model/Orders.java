@@ -17,7 +17,7 @@ public class Orders {
     private String customerName;
     private String customerNumber;
 
-    @ManyToMany
-    private List<MenuItem> menuItems;
+//    @ManyToMany
+//    private List<MenuItem> menuItems;
 
 }
